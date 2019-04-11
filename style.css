@@ -1,0 +1,16 @@
+.block{
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+}
+.cell{
+    width: 200px;
+    height: 200px;
+    border: 1px solid gray;
+    float: left;
+    box-sizing: border-box;
+    font-size: 150px;
+    letter-spacing: 150px;
+    text-align: center;
+    padding-left: 45px;
+}
